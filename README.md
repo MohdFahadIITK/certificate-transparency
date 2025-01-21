@@ -165,9 +165,8 @@ Log codebase.
     - [gflags](https://github.com/gflags/gflags): command-line flag handling
     - [glog](https://github.com/google/glog): logging infrastructure, which
       also requires libunwind.
-    - [Google Mock](https://github.com/google/googlemock.git): C++ test framework
-    - [Google Test](https://github.com/google/googletest.git): C++ mocking
-      framework
+    - [Google Mock](https://github.com/google/googlemock.git): C++ mocking framework
+    - [Google Test](https://github.com/google/googletest.git): C++ test framework
     - [Protocol Buffers](https://developers.google.com/protocol-buffers/):
       language-neutral data serialization library
     - [tcmalloc](http://goog-perftools.sourceforge.net/doc/tcmalloc.html):
